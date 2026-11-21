@@ -1,18 +1,21 @@
-company_name: "Awesome VoIP"
+company_name: Awesome VoIP
 content_table: true
 item_name: Item
 items_name: Items
 paging_mode: paging
 copyright_year: 2026
-name: "Awesome VoIP"
-initial_prompt: "A curated directory of voIP and business phone systems, SIP trunking, softphones and open-source PBX. Include products such as RingCentral, Dialpad, Aircall, Nextiva, Zoom Phone, Grasshopper, Quo (OpenPhone), JustCall, 3CX, Asterisk, FreePBX, Telnyx, plus other notable commercial and open-source options. Categories: Business Phone Systems (UCaaS), Virtual Numbers, SIP Trunking, Open-Source PBX, Softphones, Call Tracking. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
-providers:
-  ai: openrouter
-  search: tavily
-  pipeline: agent-pipeline
-  contentExtractor: local-content-extractor
-website_repo: "ever-works/awesome-voip-website"
-company_website: "https://voip.ever.works"
+name: Awesome VoIP
+initial_prompt: "A curated directory of voIP and business phone systems, SIP
+  trunking, softphones and open-source PBX. Include products such as
+  RingCentral, Dialpad, Aircall, Nextiva, Zoom Phone, Grasshopper, Quo
+  (OpenPhone), JustCall, 3CX, Asterisk, FreePBX, Telnyx, plus other notable
+  commercial and open-source options. Categories: Business Phone Systems
+  (UCaaS), Virtual Numbers, SIP Trunking, Open-Source PBX, Softphones, Call
+  Tracking. For every item capture the official website, a short factual
+  description, pricing model (free, freemium, paid, open source), deployment
+  (cloud or self-hosted), key features and integrations."
+website_repo: ever-works/awesome-voip-website
+company_website: https://voip.ever.works
 settings:
   categories_enabled: true
   companies_enabled: true
@@ -29,3 +32,5 @@ custom_menu:
   header: []
   footer: []
 version: 0.1.0
+activity_sync:
+  mode: pull
