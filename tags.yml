@@ -1,0 +1,56 @@
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: cloud
+  name: "Cloud"
+- id: smb
+  name: "SMB"
+- id: virtual-numbers
+  name: "Virtual Numbers"
+- id: sip-trunking
+  name: "SIP Trunking"
+- id: pay-as-you-go
+  name: "Pay-as-you-go"
+- id: programmable-voice
+  name: "Programmable Voice"
+- id: cpaas
+  name: "CPaaS"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: pbx
+  name: "PBX"
+- id: free-plan
+  name: "Free Plan"
+- id: open-source
+  name: "Open Source"
+- id: sip
+  name: "SIP"
+- id: asterisk
+  name: "Asterisk"
+- id: softswitch
+  name: "Softswitch"
+- id: sip-server
+  name: "SIP Server"
+- id: proxy
+  name: "Proxy"
+- id: freemium
+  name: "Freemium"
+- id: softphone
+  name: "Softphone"
+- id: mobile
+  name: "Mobile"
+- id: desktop
+  name: "Desktop"
+- id: cross-platform
+  name: "Cross-Platform"
+- id: call-tracking
+  name: "Call Tracking"
+- id: marketing
+  name: "Marketing"
+- id: analytics
+  name: "Analytics"

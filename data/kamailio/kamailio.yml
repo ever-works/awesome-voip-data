@@ -1,0 +1,13 @@
+name: "Kamailio"
+description: "Open-source SIP server for routing voice, video, and instant messaging traffic. Used as a SIP proxy, registrar, or load balancer in large-scale VoIP deployments."
+source_url: "https://www.kamailio.org/"
+category: "Open-Source PBX"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "sip-server"
+  - "proxy"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.kamailio.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.kamailio.org/>\n- Repository: <https://github.com/kamailio/kamailio>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 12:57"

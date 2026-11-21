@@ -1,0 +1,13 @@
+name: "Linphone"
+description: "Open-source softphone and SIP client for voice and video calls, instant messaging, and conferencing. Available on desktop, mobile, and web platforms."
+source_url: "https://linphone.org/"
+category: "Softphones"
+tags:
+  - "open-source"
+  - "free-plan"
+  - "softphone"
+  - "sip"
+  - "cross-platform"
+icon_url: "https://icons.duckduckgo.com/ip3/linphone.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://linphone.org/>\n- Repository: <https://github.com/BelledonneCommunications/linphone>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 12:57"

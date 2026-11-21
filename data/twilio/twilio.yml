@@ -1,0 +1,13 @@
+name: "Twilio"
+description: "Cloud communications platform offering programmable voice, SMS, and SIP trunking through APIs. Enables developers to embed telephony into applications and services."
+source_url: "https://www.twilio.com/"
+category: "SIP Trunking"
+tags:
+  - "paid"
+  - "api"
+  - "enterprise"
+  - "cloud"
+  - "programmable-voice"
+icon_url: "https://icons.duckduckgo.com/ip3/www.twilio.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.twilio.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:57"

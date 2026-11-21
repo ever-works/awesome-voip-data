@@ -1,0 +1,13 @@
+name: "FreePBX"
+description: "Open-source web-based graphical user interface for managing Asterisk-based PBX systems. Includes call routing, voicemail, and module repository for extensions."
+source_url: "https://www.freepbx.org/"
+category: "Open-Source PBX"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "pbx"
+  - "asterisk"
+  - "free-plan"
+icon_url: "https://icons.duckduckgo.com/ip3/www.freepbx.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.freepbx.org/>\n- Repository: <https://github.com/FreePBX/framework>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 12:57"

@@ -1,0 +1,13 @@
+name: "Zoom Phone"
+description: "Cloud phone system integrated with Zoom Meetings, providing VoIP calling, SMS, and voicemail. Designed for organizations already using the Zoom ecosystem."
+source_url: "https://zoom.com/"
+category: "Business Phone Systems (UCaaS)"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "ai-powered"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/zoom.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://zoom.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:57"

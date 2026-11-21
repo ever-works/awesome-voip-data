@@ -1,0 +1,13 @@
+name: "VoIP.ms"
+description: "VoIP provider offering virtual phone numbers, SIP trunking, and hosted PBX services with pay-as-you-go pricing. Supports global DID numbers and API provisioning."
+source_url: "https://voip.ms/"
+category: "Virtual Numbers"
+tags:
+  - "paid"
+  - "api"
+  - "sip-trunking"
+  - "cloud"
+  - "pay-as-you-go"
+icon_url: "https://icons.duckduckgo.com/ip3/voip.ms.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://voip.ms/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:57"

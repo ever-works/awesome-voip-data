@@ -1,0 +1,13 @@
+name: "JustCall"
+description: "Cloud-based phone system and call tracking software for sales and support teams. Provides local and toll-free numbers, SMS, automation, and CRM integrations."
+source_url: "https://justcall.io/"
+category: "Call Tracking"
+tags:
+  - "paid"
+  - "api"
+  - "call-tracking"
+  - "smb"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/justcall.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://justcall.io/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:57"

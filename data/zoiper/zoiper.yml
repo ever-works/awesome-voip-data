@@ -1,0 +1,13 @@
+name: "Zoiper"
+description: "Cross-platform softphone application supporting SIP and XMPP for VoIP calls. Offers free and paid versions with features like video calling, encryption, and auto-provisioning."
+source_url: "https://zoiper.com/"
+category: "Softphones"
+tags:
+  - "freemium"
+  - "softphone"
+  - "sip"
+  - "mobile"
+  - "desktop"
+icon_url: "https://icons.duckduckgo.com/ip3/zoiper.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://zoiper.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:57"

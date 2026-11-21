@@ -1,0 +1,13 @@
+name: "FreeSWITCH"
+description: "Open-source telephony platform for building voice, video, and messaging applications. Functions as a softswitch, PBX, or media gateway with SIP support."
+source_url: "https://freeswitch.org/"
+category: "Open-Source PBX"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "pbx"
+  - "sip"
+  - "softswitch"
+icon_url: "https://icons.duckduckgo.com/ip3/freeswitch.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://freeswitch.org/>\n- Repository: <https://github.com/signalwire/freeswitch>\n\nLicense: MPL-1.1.\n"
+updated_at: "2026-11-21 12:57"

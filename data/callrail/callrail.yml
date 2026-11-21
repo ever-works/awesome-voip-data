@@ -1,0 +1,13 @@
+name: "CallRail"
+description: "Call tracking and analytics platform that assigns unique phone numbers to marketing campaigns. Provides call recording, transcription, and attribution reporting."
+source_url: "https://www.callrail.com/"
+category: "Call Tracking"
+tags:
+  - "paid"
+  - "api"
+  - "call-tracking"
+  - "marketing"
+  - "analytics"
+icon_url: "https://icons.duckduckgo.com/ip3/www.callrail.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.callrail.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:57"

@@ -1,0 +1,12 @@
+- id: business-phone-systems-ucaas
+  name: "Business Phone Systems (UCaaS)"
+- id: virtual-numbers
+  name: "Virtual Numbers"
+- id: sip-trunking
+  name: "SIP Trunking"
+- id: open-source-pbx
+  name: "Open-Source PBX"
+- id: softphones
+  name: "Softphones"
+- id: call-tracking
+  name: "Call Tracking"

@@ -1,0 +1,13 @@
+name: "RingCentral"
+description: "Cloud-based unified communications platform offering voice, video, messaging, and contact center services for businesses of all sizes. It provides API access and integrates with popular business applications."
+source_url: "https://www.ringcentral.com/"
+category: "Business Phone Systems (UCaaS)"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "ai-powered"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/www.ringcentral.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.ringcentral.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:57"

@@ -1,0 +1,13 @@
+name: "Telnyx"
+description: "Communications platform providing SIP trunking, virtual numbers, and programmable voice APIs. Offers private networking and global carrier services for developers and enterprises."
+source_url: "https://telnyx.com/"
+category: "SIP Trunking"
+tags:
+  - "paid"
+  - "api"
+  - "enterprise"
+  - "sip-trunking"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/telnyx.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://telnyx.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:57"

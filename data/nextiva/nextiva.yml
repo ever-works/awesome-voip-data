@@ -1,0 +1,12 @@
+name: "Nextiva"
+description: "Business communications platform offering VoIP phone service, CRM, and customer experience tools. Serves small businesses and enterprises with cloud-based voice and collaboration."
+source_url: "https://www.nextiva.com/"
+category: "Business Phone Systems (UCaaS)"
+tags:
+  - "paid"
+  - "enterprise"
+  - "api"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/www.nextiva.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.nextiva.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:57"

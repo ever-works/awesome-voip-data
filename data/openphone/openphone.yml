@@ -1,0 +1,13 @@
+name: "OpenPhone"
+description: "Business phone service offering local and toll-free numbers, shared numbers, and team messaging for startups and small teams. Includes CRM integrations and auto-attendant features."
+source_url: "https://www.openphone.com/"
+category: "Virtual Numbers"
+tags:
+  - "paid"
+  - "smb"
+  - "api"
+  - "cloud"
+  - "virtual-numbers"
+icon_url: "https://icons.duckduckgo.com/ip3/www.openphone.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.openphone.com/>\n\nLicense: Proprietary.\n"
+updated_at: "2026-11-21 12:57"

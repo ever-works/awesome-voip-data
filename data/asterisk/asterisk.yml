@@ -1,0 +1,13 @@
+name: "Asterisk"
+description: "Open-source framework for building communications applications, including IP PBXs, VoIP gateways, and conference servers. Maintained by Sangoma and used by developers worldwide."
+source_url: "https://www.asterisk.org/"
+category: "Open-Source PBX"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "pbx"
+  - "sip"
+icon_url: "https://icons.duckduckgo.com/ip3/www.asterisk.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.asterisk.org/>\n- Repository: <https://github.com/asterisk/asterisk>\n\nLicense: GPL-2.0.\n"
+updated_at: "2026-11-21 12:57"
